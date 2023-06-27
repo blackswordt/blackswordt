@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm J. Jezarel S. M.</h1>
 <h3 align="center">A passionate robotics student with experience in embedded systems development</h3>
 
+- 🎮 I like **Robotics and embedded systems**
 - 🌱 I’m currently learning **Python and C++ for ROS and ROS2**
 
 ###
