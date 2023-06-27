@@ -55,5 +55,5 @@
 
 ###
 <div align="center">
-  <img src="https://profile-counter.glitch.me/J3z4r3l/count.svg?"  />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=J3z4r3l.J3z4r3l&left_color=blueviolet"  />
 </div>
