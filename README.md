@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is J. Jezarel S. M and I'm a Robotics and digital systems, from Tec de Monterrey</h2>
+<h2 align="left">Hi 👋! My name is J. Jezarel S. M and I'm a Robotics and digital systems student, from Tec de Monterrey</h2>
 
 ###
 
