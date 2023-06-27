@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is J. Jezarel S. M and I'm a Robotics and digital systems, from Tec de Monterrey</h2>
+<h1 align="center">Hi 👋, I'm J. Jezarel S. M.</h1>
+<h3 align="center">A passionate robotics student with experience in embedded systems development</h3>
+
+- 🌱 I’m currently learning **Python and C++ for ROS and ROS2**
 
 ###
 
